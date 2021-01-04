@@ -12,7 +12,7 @@ class App extends Component {
         <div id="container-wrap">
          	<Sidebar></Sidebar>
 				<div id="colorlib-main">
-					<About></About>
+					<IAbout></About>
 					<Portfolio></Portfolio>
 					<Contact></Contact>
           	</div>

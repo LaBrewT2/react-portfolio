@@ -3,7 +3,6 @@ import './App.css';
 import Portfolio from './components/portfolio';
 import Contact from './components/contact';
 import About from './components/about';
-import Sidebar from './components/sidebar';
 
 class App extends Component {
   render() {
@@ -12,9 +11,9 @@ class App extends Component {
         <div id="container-wrap">
          	<Sidebar></Sidebar>
 				<div id="colorlib-main">
-					<About></About>
-					<Portfolio></Portfolio>
-					<Contact></Contact>
+					<IAbout></About>
+					<Portfolio></About>
+					<Timeline></Timeline>
           	</div>
       	</div>
       </div>
