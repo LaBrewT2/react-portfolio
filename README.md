@@ -1,5 +1,31 @@
-# react-portfolio
-https://labrewt2.github.io/react-portfolio/
+# portfolio-tanasia
+In progress portfolio using ReactJS.
+
+Sources
+waypoints.js
+http://imakewebthings.com/waypoints/guides/jquery-zepto/
+
+modernizr.js
+https://modernizr.com/docs
+
+magnific-popup.js
+https://dimsemenov.com/plugins/magnific-popup/
+
+jquerey.flexslider.js
+https://www.jqueryscript.net/slider/Awesome-Fully-Responsive-jQuery-Slider-FlexSlider.html
+http://flexslider.woothemes.com/
+
+jquery.fittext.js
+http://fittextjs.com/
+
+jquery-migrate-1.2.1.min.js
+https://blog.jquery.com/2013/05/08/jquery-migrate-1-2-1-released/
+
+Media Queries and Css
+https://www.styleshout.com/free-templates/ceevee/
+
+npm i prismjs
+npm install rellax
 
 # Getting Started with Create React App
 
